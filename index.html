@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Salt Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-card">
+        <div class="salt-info">
+            <div class="salt-name">Sodium Chloride</div>
+            <div class="salt-formula">NaCl</div>
+        </div>
+
+        <div class="input-group">
+            <label for="color-radio-white">Color:</label>
+            <div class="options" id="color-options">
+                <label><input type="radio" name="color" value="White" id="color-radio-white"> White</label>
+                <label><input type="radio" name="color" value="Blue"> Blue</label>
+                <label><input type="radio" name="color" value="Green"> Green</label>
+                <label><input type="radio" name="color" value="Yellow"> Yellow</label>
+                <label><input type="radio" name="color" value="Violet"> Violet</label>
+                <label><input type="radio" name="color" value="Colorless or White"> Colorless/White</label>
+                <label><input type="radio" name="color" value="Other"> Other</label>
+            </div>
+        </div>
+
+        <div class="input-group">
+            <label for="solubility-radio-soluble">Solubility in Water:</label>
+            <div class="options" id="solubility-options">
+                <label><input type="radio" name="solubility" value="Soluble" id="solubility-radio-soluble"> Soluble</label>
+                <label><input type="radio" name="solubility" value="Slightly Soluble"> Slightly Soluble</label>
+                <label><input type="radio" name="solubility" value="Insoluble"> Insoluble</label>
+            </div>
+        </div>
+
+        <div class="button-container">
+            <button id="check-answer-btn">Check Answer</button>
+        </div>
+
+        <div class="feedback-area" id="feedback-area">
+            <!-- Feedback messages will appear here -->
+        </div>
+    </div>
+
+    <script src="script.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,122 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #e9ebee; /* Light grayish-blue background */
+    margin: 0;
+    padding: 15px; /* Add some padding for smaller screens */
+    box-sizing: border-box;
+}
+
+.quiz-card {
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    width: 100%;
+    max-width: 400px; /* Max width for responsiveness */
+    box-sizing: border-box;
+}
+
+.salt-info {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.salt-name {
+    font-size: 1.8em; /* Larger font size */
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+
+.salt-formula {
+    font-size: 1.2em;
+    color: #555;
+    margin-bottom: 15px;
+}
+
+.input-group {
+    margin-bottom: 20px;
+}
+
+.input-group > label { /* Direct child label, for "Color:" and "Solubility:" */
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #444;
+    font-size: 1.1em;
+}
+
+.input-group .options {
+    display: flex;
+    flex-direction: column; /* Stack options vertically */
+}
+
+.input-group .options label {
+    font-weight: normal;
+    display: block; /* Make labels take full width for easier clicking */
+    margin-bottom: 8px; /* Space out options */
+    padding: 8px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    border: 1px solid #eee;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+.input-group .options label:hover {
+    background-color: #f0f0f0;
+}
+
+.input-group .options input[type="radio"] {
+    margin-right: 8px;
+    vertical-align: middle;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 25px; /* More space above the button */
+    margin-bottom: 15px;
+}
+
+#check-answer-btn {
+    background-color: #007bff; /* Blue button */
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    font-size: 1em;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+}
+
+#check-answer-btn:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.feedback-area {
+    min-height: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1em;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+/* Specific styles for feedback messages (can be expanded with JS) */
+.feedback-area.correct {
+    color: #28a745; /* Green for correct */
+    background-color: #e9f7ef;
+    border: 1px solid #a1deb7;
+}
+
+.feedback-area.incorrect {
+    color: #dc3545; /* Red for incorrect */
+    background-color: #fdecea;
+    border: 1px solid #f5c6cb;
+}

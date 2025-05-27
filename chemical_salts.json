@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Sodium Chloride",
+    "formula": "NaCl",
+    "color": "Colorless or White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Magnesium Sulfate",
+    "formula": "MgSO4",
+    "color": "Colorless or White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Ammonium Chloride",
+    "formula": "NH4Cl",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Magnesium Chloride",
+    "formula": "MgCl2",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Sodium Sulfate",
+    "formula": "Na2SO4",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Potassium Nitrate",
+    "formula": "KNO3",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Sodium Carbonate",
+    "formula": "Na2CO3",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Potassium Carbonate",
+    "formula": "K2CO3",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Ammonium Carbonate",
+    "formula": "(NH4)2CO3",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Barium Sulfate",
+    "formula": "BaSO4",
+    "color": "White",
+    "solubility_in_water": "Insoluble"
+  },
+  {
+    "name": "Calcium Sulfate",
+    "formula": "CaSO4",
+    "color": "White",
+    "solubility_in_water": "Slightly Soluble"
+  },
+  {
+    "name": "Lead(II) Sulfate",
+    "formula": "PbSO4",
+    "color": "White",
+    "solubility_in_water": "Insoluble"
+  },
+  {
+    "name": "Sodium Acetate",
+    "formula": "CH3COONa",
+    "color": "White",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Copper(II) Sulfate Pentahydrate",
+    "formula": "CuSO4·5H2O",
+    "color": "Blue",
+    "solubility_in_water": "Soluble"
+  },
+  {
+    "name": "Potassium Permanganate",
+    "formula": "KMnO4",
+    "color": "Violet",
+    "solubility_in_water": "Soluble"
+  }
+]
