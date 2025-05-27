@@ -1,0 +1,158 @@
+**Questão 1:**
+ITA-2004 23 - Questão de Solução Tampão
+
+23. Uma solução aquosa foi preparada em um balão volumétrico de capacidade igual a 1 L,
+adicionando-se um massa correspondente a 0,05 mol de dihidrogenofosfato de potássio
+(KH2PO4) sólido a 300 mL de uma solução aquosa de hidróxido de potássio (KOH) 0,1 mol L−1
+e completando-se o volume do balão com água destilada.
+Dado eventually necessário: pKa = − logKa = 7,2, em que Ka = constante de dissociação do
+H2PO4− em água a 25oC.
+a) Escreva a equação química referente à reação que ocorre no balão quando da adição do
+KH2PO4 à solução de KOH.
+b) Determine o pH da solução aquosa preparada, mostrando os cálculos realizados.
+c) O que ocorre com o pH da solução preparada (Aumenta? Diminui? Não altera?) quando a
+100 mL desta solução for adicionado 1 mL de solução aquosa de HCl 0,1 mol L−1?
+Justifique sua resposta.
+d) O que ocorre com o pH da solução preparada (Aumenta? Diminui? Não altera?) quando
+100 mL desta solução for adicionado 1 mL de solução aquosa de KOH 0,1 mol L−1?
+Justifique sua resposta.
+
+---
+
+**Questão 2:**
+ITA-SP
+
+Esta questão refere-se a uma experiência em que o professor mostrou a dissolução completa do cádmio metálico pelo ácido clorídrico realizada num béquer. Ele chamou a atenção para os aspectos notáveis dessa dissolução, tais como: aquecimento espontâneo do béquer, desprendimento gasoso durante a dissolução, formação final de apenas uma solução incolor e perguntou:
+I) o cádmio sofre oxidação?
+II) a reação é exotérmica?
+III) o cloreto de cádmio é solúvel em água?
+IV) o gás desprendido é o cloro?
+Para qual (ou quais) das perguntas, a(s) resposta(s) é (são) afirmativa(s)?
+a) Somente para as perguntas I, II e III.
+b) Somente para as perguntas II e IV.
+c) Somente para as perguntas I e III.
+d) Somente para a pergunta IV.
+e) Para todas as perguntas.
+
+---
+
+**Questão 3:**
+1995 ITA ionização
+
+Colocando cristais de nitrato de potássio (KNO3) em um frasco com água, nota se que com o passar do tempo o sólido desaparece dentro da água, e temos uma solução eletrolítica. Qual das equações abaixo é a mais adequada para representar o que ocorreu dentro do frasco?
+a) KNO3(c) → KNO3(l)
+b) KNO3(c) + H2O(l) → KOH(aq) + HNO3(aq)
+c) KNO3(c) → K + (aq) + NO3 - (aq)
+d) KNO3(c) → K(l) + NO3(aq)
+e) KNO3(c) + H2O(l)→ KNO2(aq) + H2O2(aq)
+
+---
+
+**Questão 4:**
+ITA hibridização
+
+(ITA-SP) A(s) ligação(ões) carbono-hidrogênio existente(s) na molécula de metano (CH4) pode(m) ser interpretada(s) como sendo formada(s) pela interpenetração frontal dos orbitais atômicos "s" do átomo de hidrogênio, com os seguintes orbitais atômicos do átomo de carbono:
+a) Quatro orbitais p.
+b) Quatro orbitais sp3 .
+c) Um orbital híbrido sp3 .
+d) Um orbital s e três orbitais p.
+e) Um orbital p e três orbitais sp2
+
+---
+
+**Questão 5:**
+ITA estequio
+
+(ITA) Aquecendo juntos (x) kg de óxido de estanho (SnO2) e 0,48 kg de grafite sólidos, em
+atmosfera inerte, são produzidos 3,6 kg de estanho sólido, (z) m3 de monóxido de carbono (CO) e
+(w) m3 de dióxido de carbono (CO2) gasosos.
+Qual das opções a seguir apresentam os valores CORRETOS de (x), (z) e (w)? (Considerar volumes
+gasosos medidos nas CNTP e comportamento ideal dos gases).
+Dados: Massas molares (g/mol): C = 12,01; O = 16,00; Sn = 118,71.
+x (kg) z (m3) w (m3)
+a) 1,5 0,22 0,11
+b) 3,8 0,11 0,22
+c) 4,5 0,15 0,15
+d) 4,5 0,45 0,45
+e) 9,0 0,45 0,45
+
+---
+
+**Questão 6:**
+Ita inorgânica
+
+Considere a reação química representada pela equação NH3 + BF3 → H3NBF3. Pode-se afirmar que o BF3 age
+a)como ácido de Bronsted.
+b)como ácido de Lewis.
+c)como base de Bronsted.
+d)como base de Lewis.
+e)tanto como ácido como base
+
+---
+
+**Questão 7:**
+Ita estequiometria
+
+Um estudante preparou uma MISTURA A,
+constituída dos seguintes sólidos: cloreto de sódio, cloreto
+de potássio e cloreto de bário. Numa primeira experiência,
+foi preparada uma solução aquosa pela total dissolução de
+34,10g da MISTURA A em água destilada, a 25°C, à qual
+foi adicionada, a seguir, uma solução aquosa de nitrato de
+prata em excesso, obtendo-se 57,40g de um certo
+precipitado. Num segundo experimento, foi preparada uma
+solução aquosa pela total dissolução de 6,82g da MISTURA
+A em água destilada, a 25°C, à qual foi adicionada, a
+seguir, uma solução aquosa de sulfato de sódio em
+excesso, obtendo-se 4,66g de um outro precipitado. Qual
+das opções a seguir apresenta o valor CORRETO da
+composição percentual, em massa, da MISTURA A?
+Massas molares (g/mol):
+Na = 22,90; Cl = 35,45; K = 39,10
+Ba = 137,33; S = 32,60; O = 16,00
+Ag = 107,87
+resposta: a) 17,2% de NaCl, 21,8% de KCl 61,0% de BaCl2
+
+---
+
+**Questão 8:**
+ITA - Funções Inorgânicas
+
+Em três frascos rotulados A, B e C e contendo 100ml de água cada um, são colocados 0,1mol, respectivamente, de hidróxido de potássio, hidróxido de cobre (II) e hidróxido de níquel (II). Após agitar o suficiente para garantir que todo soluto possível de se dissolver já esteja dissolvido, mede-se as condutividades elétricas das misturas. Obtém-se que as condutividades das misturas dos frascos B e C são semelhantes e muito menores do que a do frasco A. Assinale a opção que contém a afirmação FALSA.
+a) Nos frascos B e C, a parte do hidróxido que está dissolvida encontra-se dissociada ionicamente.
+b) Os hidróxidos dos copos B e C são bases fracas, porque nem toda quantidade dissolvida está dissociada ionicamente.
+c) A condutividade elétrica da mistura do frasco A é a maior porque se trata de uma solução 1 molar de eletrólito forte.
+d) Os três solutos são bases fortes, porém os hidróxidos de cobre (II) e de níquel (II) são pouco solúveis.
+e) Soluções muito diluídas com igual concentração normal destes 3 hidróxidos deveriam apresentar condutividades elétricas semelhantes.
+
+---
+
+**Questão 9:**
+ITA - ácido-base
+
+(ITA SP/2002) Considere o caráter ácido-base das seguintes espécies:
+I. H2O.
+II. C5H5N (piridina).
+III. (C2H5)2 NH (dietilamina).
+IV. [(C2H5)2 NH2]+ (di-etil-amônio).
+V. C2H5OH (etanol).
+Segundo a definição ácido-base de Bronsted, dentre estas substâncias, podem ser classificadas como base
+a) apenas I e Il.
+b) apenas I, II e III.
+c) apenas II e III.
+d) apenas III, IV e V.
+e) todas.
+
+---
+
+**Questão 10:**
+ITA SP/1988 reações organicas
+
+O benzeno em fase de vapor reage com oxigênio atmosférico sob ação catalítica de V2O5 a 400ºC, fornecendo o anidrido maléico; este, hidrolisado com água fervente, produz ácido maléico. Dentre as opções abaixo, assinale a que contém a afirmação INCORRETA:
+A) O anidrido maléico também pode ser obtido por desidratação do ácido fumárico.
+B) O ácido maléico tratado por um reagente eletrófilo (ex.: bromo) dará um composto de adição.
+C) O anidrido maléico formalmente é derivado de duas moléculas de ácido acético pela remoção de uma molécula de água.
+D) A hidrogenação catalítica, tanto do ácido fumárico como do ácido maléico, fornece o ácido butanodióico.
+E) A oxidação do benzeno em presença de pentóxido de vanádio é um exemplo de reação com abertura do anel aromático.
+
+---
