@@ -1,0 +1,181 @@
+**Questões Discursivas Originais de Química – Nível Difícil**
+
+**Instruções:** Resolva as questões a seguir, apresentando o raciocínio completo, todas as etapas de cálculo e as unidades. Demonstre um profundo entendimento dos conceitos químicos envolvidos.
+
+---
+
+**Questão 1 (Termoquímica e Equilíbrio Químico)**
+
+A produção de fosgênio (COCl₂), um gás tóxico, mas importante intermediário industrial, ocorre pela reação direta entre monóxido de carbono (CO) e cloro gasoso (Cl₂):
+
+CO(g) + Cl₂(g) ⇌ COCl₂(g)
+
+Considere os seguintes dados de energia de ligação média (E):
+*   C≡O em CO(g): 1072 kJ/mol
+*   Cl–Cl em Cl₂(g): 242 kJ/mol
+*   C=O em COCl₂(g): 743 kJ/mol (considere uma ligação dupla)
+*   C–Cl em COCl₂(g): 328 kJ/mol (considere duas ligações simples)
+
+a) Calcule a entalpia padrão da reação (ΔH°) de formação do fosgênio a partir de CO(g) e Cl₂(g) utilizando as energias de ligação fornecidas.
+b) Com base no valor de ΔH° calculado, discuta como um aumento na temperatura do sistema em equilíbrio afetaria a constante de equilíbrio Kp e a quantidade de fosgênio produzida. Justifique termodinamicamente.
+c) Em um reator de 50,0 L a 400 °C, uma mistura inicial de CO e Cl₂ em proporção estequiométrica é introduzida. No equilíbrio, a pressão parcial do COCl₂ é de 0,80 atm e a pressão total no sistema é de 2,00 atm. Calcule o valor de Kp para esta reação a 400 °C.
+d) Se a reação fosse conduzida em um volume menor, mantendo a mesma temperatura de 400 °C e as mesmas quantidades iniciais de reagentes, como isso afetaria a pressão parcial de COCl₂ no equilíbrio? Justifique utilizando o Princípio de Le Chatelier.
+
+---
+
+**Questão 2 (Cinética Química e Mecanismos)**
+
+A decomposição do pentóxido de dinitrogênio (N₂O₅) em fase gasosa ocorre segundo a equação global:
+
+2 N₂O₅(g) → 4 NO₂(g) + O₂(g)
+
+A lei de velocidade experimentalmente determinada para esta reação é: Velocidade = k[N₂O₅]. A constante de velocidade (k) a 45 °C é 5,20 x 10⁻⁴ s⁻¹.
+
+Um mecanismo proposto para esta decomposição é:
+
+Etapa 1: N₂O₅(g) ⇌ NO₂(g) + NO₃(g) (equilíbrio rápido, constantes k₁ e k₋₁)
+Etapa 2: NO₂(g) + NO₃(g) → NO(g) + NO₂(g) + O₂(g) (lenta, constante k₂)
+Etapa 3: NO(g) + N₂O₅(g) → 3 NO₂(g) (rápida, constante k₃)
+
+a) Mostre que este mecanismo é consistente com a equação global da reação.
+b) Identifique todos os intermediários de reação presentes no mecanismo proposto.
+c) Derive a lei de velocidade para a reação com base no mecanismo proposto, assumindo que a Etapa 2 é a etapa determinante da velocidade. Mostre como essa lei de velocidade derivada pode se simplificar para a forma experimentalmente observada sob certas aproximações (como o pré-equilíbrio rápido da Etapa 1).
+d) Calcule o tempo de meia-vida para a decomposição do N₂O₅ a 45 °C.
+e) Se a concentração inicial de N₂O₅ for 0,250 mol/L, qual será a concentração de N₂O₅ após 30 minutos?
+
+---
+
+**Questão 3 (Eletroquímica e Termodinâmica)**
+
+Considere uma célula galvânica a 25 °C montada com as seguintes meias-células:
+I. Um eletrodo de Cobre (Cu) imerso em uma solução de Cu(NO₃)₂ 0,010 mol/L.
+II. Um eletrodo de Zinco (Zn) imerso em uma solução de Zn(NO₃)₂ 2,0 mol/L.
+
+Dados os potenciais padrão de redução a 25 °C:
+Zn²⁺(aq) + 2e⁻ → Zn(s)   E° = -0,76 V
+Cu²⁺(aq) + 2e⁻ → Cu(s)   E° = +0,34 V
+
+Constante de Faraday (F) = 96500 C/mol e⁻
+Constante dos gases ideais (R) = 8,314 J/mol·K
+
+a) Escreva a reação global espontânea para esta célula e calcule o potencial padrão da célula (E°pilha).
+b) Calcule o potencial da célula (Epilha) nas condições de concentração fornecidas, utilizando a Equação de Nernst.
+c) Calcule a variação da energia livre de Gibbs padrão (ΔG°) para a reação global da célula a 25 °C.
+d) Calcule a constante de equilíbrio (K) para a reação global da célula a 25 °C.
+e) Se a concentração de Cu²⁺ fosse aumentada para 1,0 mol/L e a de Zn²⁺ diminuída para 0,001 mol/L, como o potencial da célula (Epilha) se compararia ao E°pilha e ao Epilha calculado no item (b)? Justifique sem realizar novos cálculos detalhados, mas explicando o efeito das concentrações.
+
+---
+
+**Questão 4 (Química Orgânica – Estereoquímica e Mecanismos de Reação)**
+
+Considere a reação do (R)-2-bromobutano com os seguintes reagentes em condições apropriadas:
+I. Íon hidróxido (OH⁻) em um solvente polar aprótico como DMSO (dimetilsulfóxido).
+II. Água (H₂O) em um solvente polar prótico, como uma mistura de água e etanol.
+
+a) Desenhe a estrutura do (R)-2-bromobutano utilizando a notação de perspectiva (cunhas e traços) para indicar a estereoquímica no carbono quiral.
+b) Para a reação com o íon hidróxido (I), preveja o(s) produto(s) orgânico(s) principal(is). Desenhe a(s) estrutura(s) do(s) produto(s) mostrando claramente sua estereoquímica. Qual mecanismo de substituição (SN1 ou SN2) é mais provável neste caso? Justifique sua escolha e explique o resultado estereoquímico.
+c) Para a reação com água (II), preveja o(s) produto(s) orgânico(s) principal(is). Desenhe a(s) estrutura(s) do(s) produto(s) mostrando claramente sua estereoquímica. Qual mecanismo de substituição (SN1 ou SN2) é mais provável neste caso? Justifique sua escolha e explique o resultado estereoquímico.
+d) Se o substrato fosse o 2-bromo-2-metilbutano em vez do (R)-2-bromobutano, como isso alteraria a sua previsão para o mecanismo predominante na reação com água (condição II)? Explique.
+
+---
+
+**Questão 5 (Soluções, Estequiometria e Equilíbrio de Solubilidade)**
+
+Uma solução aquosa de 200,0 mL contém íons Ca²⁺ na concentração de 0,025 mol/L e íons Sr²⁺ na concentração de 0,015 mol/L. Uma solução concentrada de sulfato de potássio (K₂SO₄) é gradualmente adicionada a esta mistura para precipitar seletivamente os cátions na forma de seus sulfatos insolúveis. Considere que não há variação significativa de volume com a adição da solução de K₂SO₄.
+
+Dados os produtos de solubilidade (Kps) a 25 °C:
+CaSO₄: Kps = 2,4 x 10⁻⁵
+SrSO₄: Kps = 3,2 x 10⁻⁷
+
+a) Qual dos sulfatos (CaSO₄ ou SrSO₄) precipitará primeiro à medida que a solução de K₂SO₄ é adicionada? Justifique sua resposta com cálculos da concentração de SO₄²⁻ necessária para iniciar a precipitação de cada sal.
+b) Calcule a concentração de SO₄²⁻ no momento em que o segundo cátion começa a precipitar.
+c) Quando o segundo cátion começa a precipitar, qual é a concentração molar do primeiro cátion que ainda permanece em solução?
+d) Se a adição de K₂SO₄ for interrompida quando a concentração de SO₄²⁻ atingir 5,0 x 10⁻³ mol/L, calcule a massa de cada precipitado formado (CaSO₄ e SrSO₄), assumindo que o equilíbrio de solubilidade é rapidamente estabelecido.
+(Massas molares: Ca=40,1 g/mol; Sr=87,6 g/mol; S=32,1 g/mol; O=16,0 g/mol)
+
+---
+
+**Questão 6 (Química Orgânica – Síntese Orgânica Avançada e Análise Espectroscópica)**
+
+Proponha uma sequência sintética, com no máximo 4 etapas reacionais, para a preparação do ácido 4-nitrobenzoico a partir do benzeno. Para cada etapa, indique os reagentes/condições necessários e desenhe a estrutura do principal produto orgânico formado.
+
+Após a conclusão da síntese, você suspeita que, além do produto desejado (ácido 4-nitrobenzoico), pode haver uma pequena quantidade de ácido 3-nitrobenzoico como subproduto.
+
+a) Apresente a sequência sintética solicitada (do benzeno ao ácido 4-nitrobenzoico).
+b) Explique a ordem de introdução dos grupos -NO₂ e -COOH no anel benzênico para favorecer a formação do isômero para (ácido 4-nitrobenzoico) em detrimento de outros isômeros. Considere os efeitos de dirigência dos grupos.
+c) Supondo que você tenha acesso a espectrômetros de Infravermelho (IV) e Ressonância Magnética Nuclear de Prótons (RMN de ¹H), descreva resumidamente como você poderia utilizar:
+    i) Espectroscopia de IV para confirmar a presença do grupo carboxila (-COOH) e do grupo nitro (-NO₂) no produto obtido. Indique as faixas aproximadas (em cm⁻¹) onde você esperaria observar as absorções características destes grupos.
+    ii) Espectroscopia de RMN de ¹H para diferenciar o ácido 4-nitrobenzoico do ácido 3-nitrobenzoico. Explique quais seriam as diferenças esperadas nos espectros de RMN de ¹H (número de sinais, multiplicidade e/ou deslocamento químico relativo dos hidrogênios aromáticos) que permitiriam essa diferenciação. Não é necessário prever os deslocamentos químicos exatos.
+
+---
+
+**Questão 7 (Equilíbrio Químico em Fase Gasosa e Termodinâmica)**
+
+O trióxido de enxofre (SO₃) se decompõe em dióxido de enxofre (SO₂) e oxigênio (O₂) a altas temperaturas, de acordo com o equilíbrio:
+
+2 SO₃(g) ⇌ 2 SO₂(g) + O₂(g)     ΔH° = +198 kJ/mol (reação endotérmica)
+
+Em um recipiente de 20,0 L a 1000 K, 4,00 mols de SO₃ são inicialmente introduzidos. Após o equilíbrio ser estabelecido, a análise da mistura gasosa revela que 60,0% do SO₃ original se dissociou.
+
+a) Calcule o número de mols de cada componente (SO₃, SO₂, O₂) na mistura em equilíbrio.
+b) Calcule a pressão parcial de cada componente e a pressão total no recipiente em equilíbrio a 1000 K. (Dado: R = 0,0821 atm·L/mol·K)
+c) Calcule as constantes de equilíbrio Kp e Kc para esta reação a 1000 K.
+d) Considere que o sistema está em equilíbrio nas condições descritas. Se a pressão total sobre o sistema for aumentada pela compressão do recipiente (diminuição do volume) a temperatura constante (1000 K), o que acontecerá com o grau de dissociação do SO₃ e com o valor de Kp? Justifique suas respostas.
+e) Se a temperatura do sistema em equilíbrio fosse aumentada de 1000 K para 1100 K, o que aconteceria com o valor de Kp? Justifique com base no ΔH° da reação.
+
+---
+
+**Questão 8 (Cinética Química Avançada – Equação de Arrhenius e Catálise)**
+
+A reação de isomerização do ciclopropano para propeno é uma reação de primeira ordem:
+
+CH₂CH₂CH₂ (ciclopropano) → CH₃CH=CH₂ (propeno)
+
+As constantes de velocidade para esta reação foram determinadas em diferentes temperaturas:
+*   A 700 K, k = 1,05 x 10⁻⁴ s⁻¹
+*   A 800 K, k = 1,78 x 10⁻² s⁻¹
+
+Constante dos gases ideais (R) = 8,314 J/mol·K. (ln(x) representa o logaritmo natural de x)
+
+a) Calcule a energia de ativação (Ea) para esta reação em kJ/mol.
+b) Calcule o fator pré-exponencial (A) na equação de Arrhenius para esta reação. Indique suas unidades.
+c) Qual seria o valor da constante de velocidade (k) a 750 K?
+d) Um catalisador é introduzido no sistema, e observa-se que a velocidade da reação de isomerização a 700 K aumenta por um fator de 1000. Assumindo que o fator pré-exponencial (A) não é alterado pela presença do catalisador, calcule a nova energia de ativação (Ea') na presença deste catalisador.
+e) Esboce um diagrama de energia potencial versus coordenada de reação para a reação não catalisada e para a reação catalisada, mostrando claramente Ea, Ea', e o ΔH da reação (considere a reação como exotérmica para fins de esboço, embora não fornecido). Indique como o catalisador afeta o caminho da reação.
+
+---
+
+**Questão 9 (Eletroquímica Aplicada e Estequiometria de Ligas)**
+
+Uma amostra de 5,00 g de uma liga metálica contendo apenas Cobre (Cu) e Prata (Ag) é completamente dissolvida em ácido nítrico. A solução resultante é adequadamente tratada e submetida a um processo de eletrólise com eletrodos inertes. Inicialmente, aplica-se um potencial controlado de forma que apenas a prata metálica seja depositada no cátodo. Após a deposição completa da prata, o cátodo é removido, seco e pesado, verificando-se um aumento de massa de 1,50 g. Em seguida, um novo cátodo é inserido e o potencial é ajustado para que o cobre metálico seja depositado.
+
+Dados:
+Massas molares: Cu = 63,5 g/mol; Ag = 107,9 g/mol
+Constante de Faraday (F) = 96500 C/mol e⁻
+Semirreações de redução:
+Ag⁺(aq) + e⁻ → Ag(s)
+Cu²⁺(aq) + 2e⁻ → Cu(s)
+
+a) Calcule a porcentagem em massa de Prata (Ag) e de Cobre (Cu) na liga metálica original.
+b) Qual a quantidade total de carga (em Coulombs) utilizada para depositar toda a prata da amostra?
+c) Se a corrente utilizada para a deposição da prata foi constante e igual a 0,800 A, quanto tempo (em minutos) levou para depositar toda a prata?
+d) Após a deposição completa da prata, qual a massa de cobre que se espera ser depositada no segundo cátodo?
+e) Se a eletrólise do cobre fosse interrompida após a passagem de 2500 C de carga (após o início da deposição do cobre), qual seria a massa de cobre depositada?
+
+---
+
+**Questão 10 (Química Orgânica – Polímeros e Caracterização)**
+
+Considere a polimerização por adição do estireno (vinilbenzeno, C₆H₅CH=CH₂) para formar o poliestireno. Em um experimento específico, uma amostra de poliestireno foi analisada e constatou-se que possuía uma massa molar média numérica (Mn) de 156.000 g/mol.
+
+O cloreto de vinila (CH₂=CHCl) e o acetato de vinila (CH₃COOCH=CH₂) podem ser copolimerizados para formar um copolímero.
+
+Massas molares dos monômeros: Estireno = 104,0 g/mol; Cloreto de vinila = 62,5 g/mol; Acetato de vinila = 86,0 g/mol.
+
+a) Desenhe a estrutura do mero (unidade repetitiva) do poliestireno.
+b) Calcule o grau médio de polimerização (n) para a amostra de poliestireno com Mn = 156.000 g/mol.
+c) Considere a formação de um copolímero alternado entre cloreto de vinila e acetato de vinila. Desenhe um fragmento da cadeia deste copolímero alternado mostrando pelo menos duas unidades de cada monômero.
+d) Compare qualitativamente as prováveis diferenças de propriedades (como flexibilidade e polaridade) entre o policloreto de vinila (PVC), o poliacetato de vinila (PVA) e o copolímero alternado cloreto de vinila-acetato de vinila. Justifique sua resposta com base nas estruturas dos monômeros e nas interações intermoleculares.
+e) Se um copolímero aleatório de estireno e acrilonitrila (CH₂=CHCN) contém 75% em massa de estireno, calcule a fração molar de cada monômero no copolímero. (Massa molar da acrilonitrila = 53,0 g/mol).
+
+---
