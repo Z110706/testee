@@ -1,0 +1,195 @@
+**Questões Discursivas Originais de Química – Nível Muito Difícil**
+
+**Instruções:** Resolva as questões a seguir, demonstrando um domínio excepcional dos conceitos químicos. Apresente raciocínios detalhados, deduções lógicas, todas as etapas de cálculo, e justifique quaisquer aproximações ou suposições feitas. As unidades são cruciais.
+
+---
+
+**Questão 1 (Termodinâmica do Equilíbrio Químico)**
+
+Considere a reação de isomerização em fase gasosa: A(g) ⇌ B(g)
+
+A 298 K, a variação de entalpia padrão para esta reação é ΔH°₂₉₈ = -15,0 kJ/mol e a variação de entropia padrão é ΔS°₂₉₈ = -50,0 J/mol·K. Suponha que ΔH° e ΔS° são independentes da temperatura em uma faixa limitada.
+
+a) Calcule a variação da energia livre de Gibbs padrão (ΔG°₂₉₈) e a constante de equilíbrio (Kp) para esta reação a 298 K. (R = 8,314 J/mol·K)
+b) Discuta, do ponto de vista da termodinâmica estatística (mencionando conceitualmente como as funções de partição molecular se relacionam com Kp), por que a constante de equilíbrio Kp depende da temperatura. Não é necessário calcular funções de partição, apenas explicar a conexão fundamental.
+c) Estime a temperatura (em Kelvin) na qual a constante de equilíbrio Kp seria igual a 1. Quais suposições você fez para esta estimativa?
+d) Se a reação ocorresse em um solvente ideal, em vez da fase gasosa, como você esperaria que a entalpia de solvatação diferencial entre A e B (ΔH°solv(B) - ΔH°solv(A)) afetasse o valor de ΔH° da reação em solução e, consequentemente, a constante de equilíbrio em solução comparada à fase gasosa? Justifique.
+e) Considere uma reação similar de isomerização C(g) ⇌ D(g) para a qual ΔH°₂₉₈ é significativamente mais negativo (e.g., -60 kJ/mol), mas ΔS°₂₉₈ é o mesmo (-50,0 J/mol·K). Sem realizar cálculos detalhados para C ⇌ D, compare qualitativamente a espontaneidade e a constante de equilíbrio desta nova reação com a reação A ⇌ B a 298 K e a 1000 K.
+
+---
+
+**Questão 2 (Cinética de Reações Complexas e Aproximação do Estado Estacionário)**
+
+A reação em fase gasosa entre o óxido nítrico (NO) e o hidrogênio (H₂) para formar óxido nitroso (N₂O) e água é dada pela seguinte equação estequiométrica:
+
+2 NO(g) + H₂(g) → N₂O(g) + H₂O(g)
+
+Experimentalmente, observa-se que a lei de velocidade para esta reação em certas condições é:
+Velocidade = k[NO]²[H₂]
+
+No entanto, sob outras condições, especialmente com excesso de H₂, a lei de velocidade pode se tornar mais complexa. Considere o seguinte mecanismo proposto que envolve um intermediário N₂O₂:
+
+Etapa 1: 2 NO(g) ⇌ N₂O₂(g) (equilíbrio rápido, constantes k₁ (direta) e k₋₁ (inversa))
+Etapa 2: N₂O₂(g) + H₂(g) → N₂O(g) + H₂O(g) (lenta, constante k₂)
+
+a) Assumindo que a Etapa 2 é a etapa determinante da velocidade (ou seja, k₂ é muito menor que k₁ e k₋₁), derive a lei de velocidade para a formação de N₂O. Mostre que esta derivação leva à lei de velocidade experimentalmente observada (Velocidade = k[NO]²[H₂]) e relacione a constante k observada com as constantes das etapas elementares (k₁, k₋₁, k₂).
+b) Agora, não faça a suposição de que a Etapa 2 é estritamente lenta. Em vez disso, aplique a aproximação do estado estacionário (AEE) ao intermediário N₂O₂. Derive a lei de velocidade para a formação de N₂O em termos das concentrações dos reagentes (NO, H₂) e das constantes de velocidade k₁, k₋₁ e k₂.
+c) Analise a lei de velocidade obtida no item (b). Mostre como ela se simplifica para a forma Velocidade = k[NO]²[H₂] quando a concentração de H₂ é suficientemente baixa (ou k₂[H₂] ≪ k₋₁).
+d) Analise a lei de velocidade obtida no item (b) para o caso em que a concentração de H₂ é muito alta (ou k₂[H₂] ≫ k₋₁). Qual é a ordem da reação em relação ao NO e ao H₂ neste caso limite? O que isso implica sobre a etapa determinante da velocidade sob estas condições?
+e) Se o H₂ fosse substituído por D₂ (deutério), e observou-se que a constante k₂ para a reação com D₂ é aproximadamente 3 vezes menor que para H₂, qual seria o efeito isotópico cinético (kH₂/kD₂) para a Etapa 2? Como isso afetaria a lei de velocidade global se a Etapa 2 for a etapa determinante? Discuta brevemente a origem física de tal efeito isotópico primário.
+
+---
+
+**Questão 3 (Eletroquímica Não Ideal – Células de Concentração e Coeficientes de Atividade)**
+
+Considere uma célula de concentração de prata a 25 °C, formada por dois eletrodos de prata imersos em soluções de AgNO₃ com diferentes concentrações, conectados por uma ponte salina de KNO₃ concentrado.
+Eletrodo 1: Ag(s) | AgNO₃(aq, m₁)
+Eletrodo 2: Ag(s) | AgNO₃(aq, m₂)
+onde m₁ = 0,0050 mol/kg e m₂ = 0,0500 mol/kg. O potencial padrão de redução para Ag⁺(aq) + e⁻ → Ag(s) é E° = +0,799 V. (R = 8,314 J/mol·K; F = 96500 C/mol e⁻)
+
+a) Escreva as semirreações para o cátodo e o ânodo e a reação global da célula. Determine qual eletrodo atuará como cátodo e qual atuará como ânodo.
+b) Calcule o potencial da célula (Epilha) assumindo comportamento ideal (coeficientes de atividade iguais a 1).
+c) O coeficiente de atividade iônico médio (γ±) de um eletrólito pode ser estimado pela equação de Debye-Hückel estendida ou, para concentrações muito baixas, pela lei limite de Debye-Hückel: log γ± = -A|z₊z₋|√I, onde A é uma constante (0,509 para água a 25 °C), z₊ e z₋ são os números de carga do cátion e do ânion, e I é a força iônica da solução em mol/kg. Calcule a força iônica (I) e o coeficiente de atividade iônico médio (γ±) para as soluções de AgNO₃ m₁ e m₂. (Considere AgNO₃ como um eletrólito 1:1).
+d) Utilizando os coeficientes de atividade calculados, determine as atividades dos íons Ag⁺ em cada meia-célula (aAg⁺ = γ± * mAg⁺). Recalcule o potencial da célula (Epilha) utilizando atividades em vez de molalidades na equação de Nernst.
+e) Compare os potenciais calculados nos itens (b) e (d). Discuta o significado físico da diferença encontrada e explique como a presença de um eletrólito inerte adicional (por exemplo, 0,10 mol/kg de NaNO₃) em ambas as meia-células afetaria a força iônica, os coeficientes de atividade e o potencial da célula. Seria esperado um aumento ou diminuição da não-idealidade?
+
+---
+
+**Questão 4 (Química Orgânica – Elucidação Estrutural Integrada)**
+
+Um composto orgânico **X**, de fórmula molecular C₁₀H₁₂O₂, é opticamente ativo. Sua análise espectroscópica e reações químicas forneceram os seguintes dados:
+
+*   **Espectroscopia de Infravermelho (IV):** Absorções fortes em ~1715 cm⁻¹ (carbonila de cetona ou aldeído), ~1600 cm⁻¹ e ~1500 cm⁻¹ (anel aromático), ~3000-2850 cm⁻¹ (C-H sp³), e ausência de banda larga característica de O-H (~3200-3600 cm⁻¹).
+*   **Espectrometria de Massas (EM):** Pico do íon molecular (M⁺) em m/z = 164. Fragmentos significativos em m/z = 149, 121, 105, 91, 77. O fragmento em m/z = 105 é particularmente intenso.
+*   **RMN de ¹H:**
+    *   δ 7,0-7,5 ppm (multipleto complexo, 5H, aromático monossubstituído)
+    *   δ 3,6 ppm (singleto, 3H)
+    *   δ 2,9 ppm (quarteto, 1H, J = 7 Hz)
+    *   δ 1,2 ppm (dublete, 3H, J = 7 Hz)
+*   **RMN de ¹³C:** Sinais em δ ~200 ppm (carbonila), δ ~137 ppm, δ ~128-129 ppm (múltiplos sinais), δ ~52 ppm, δ ~45 ppm, δ ~18 ppm.
+*   **Reações Químicas:**
+    1.  **X** reage com 2,4-dinitrofenilidrazina formando um precipitado colorido.
+    2.  **X** não reage com o Reagente de Tollens.
+    3.  A oxidação de **X** com KMnO₄ concentrado a quente, seguida de acidificação, produz ácido benzoico.
+    4.  A hidrólise ácida de **X** (H₃O⁺, calor) produz metanol e um composto **Y**. O composto **Y** é opticamente ativo e, após oxidação vigorosa, também produz ácido benzoico.
+
+a) A partir da fórmula molecular, calcule o índice de deficiência de hidrogênio (IDH) para o composto **X**. O que este valor sugere sobre a estrutura?
+b) Analise os dados de IV e as reações 1 e 2. Que grupo(s) funcional(is) está(ão) presente(s) em **X**? Que grupo funcional pode ser descartado?
+c) Interprete os dados de RMN de ¹H, especialmente o singleto em 3,6 ppm, o padrão aromático e o sistema etila (quarteto/dublete). O que o fragmento de m/z = 105 na EM sugere fortemente?
+d) Considerando a reação 3 (oxidação a ácido benzoico) e a reação 4 (hidrólise), proponha estruturas para **X** e **Y**. A estrutura de **X** deve ser consistente com todos os dados espectroscópicos e com sua atividade óptica.
+e) Desenhe o enantiômero (S) do composto **X** utilizando notação de perspectiva (cunhas e traços) no centro quiral. Explique brevemente como a presença de um único centro quiral se relaciona com a atividade óptica observada.
+
+---
+
+**Questão 5 (Equilíbrios Complexos em Sistemas Heterogêneos e Termodinâmica)**
+
+Considere a decomposição térmica do hidrogenocarbonato de sódio sólido (NaHCO₃) em um recipiente fechado que inicialmente contém apenas o sólido e gás argônio a uma pressão de 1,00 atm (atuando como gás inerte, não participante da reação). A reação de decomposição é:
+
+2 NaHCO₃(s) ⇌ Na₂CO₃(s) + H₂O(g) + CO₂(g)
+
+Para esta reação, a 100 °C (373,15 K):
+ΔH° = +136,0 kJ/mol
+ΔS° = +334,0 J/mol·K
+(Suponha que ΔH° e ΔS° não variam significativamente com pequenas variações de temperatura em torno de 100°C).
+R = 8,314 J/mol·K = 0,0821 atm·L/mol·K.
+
+a) Calcule ΔG° e a constante de equilíbrio Kp para a reação de decomposição a 100 °C.
+b) Se uma amostra de NaHCO₃(s) for aquecida a 100 °C em um recipiente fechado de volume fixo, quais serão as pressões parciais de H₂O(g) e CO₂(g) no equilíbrio? Qual será a pressão total no recipiente, considerando a presença inicial do argônio?
+c) Agora, considere que o CO₂(g) produzido pode reagir com água líquida (se presente) para formar ácido carbônico, que então se dissocia. Suponha que, no mesmo recipiente, haja uma pequena quantidade de água líquida (volume desprezível, mas suficiente para estabelecer equilíbrios) e que o sistema é mantido a 25 °C após a decomposição inicial a alta temperatura ter gerado CO₂ e H₂O gasosos, que então esfriam e entram em equilíbrio com a água líquida.
+    Dados adicionais a 25 °C:
+    Constante da Lei de Henry para CO₂ em água (kH) = 3,4 x 10⁻² mol/(L·atm)
+    Primeira constante de dissociação do H₂CO₃ (Ka₁) = 4,5 x 10⁻⁷
+    Segunda constante de dissociação do H₂CO₃ (Ka₂) = 4,7 x 10⁻¹¹
+    Kps do NaHCO₃ e Na₂CO₃ são muito altos (considere-os totalmente solúveis na pequena quantidade de água, focando no equilíbrio gasoso-aquoso do CO₂).
+
+    Se a pressão parcial de CO₂(g) no equilíbrio com a fase gasosa a 25 °C for de 0,050 atm, calcule:
+    i) A concentração de CO₂(aq) dissolvido na água.
+    ii) O pH da solução aquosa em equilíbrio, considerando apenas a primeira dissociação do H₂CO₃ e desprezando a segunda. Justifique a aproximação de desprezar a segunda dissociação. (Suponha que a concentração inicial de H₂CO₃ é igual à de CO₂(aq) calculada).
+d) Retornando ao sistema de decomposição original a 100 °C (sem água líquida). Se o volume do recipiente fosse aumentado após o equilíbrio ser atingido, como isso afetaria a quantidade de NaHCO₃(s) decomposto e as pressões parciais dos gases? Justifique.
+e) Qual seria o efeito sobre o Kp da reação de decomposição a 100 °C se a pressão total inicial do argônio fosse de 2,00 atm em vez de 1,00 atm? Explique.
+
+---
+
+**Questão 6 (Química Orgânica – Síntese Assimétrica e Análise Conformacional Avançada)**
+
+A (-)-mentona é um cetona monocíclica quiral. Considere a reação de redução da (-)-mentona [(1R,4S)-2-isopropil-5-metilcicloexanona] com borohidreto de sódio (NaBH₄), um agente redutor não seletivo, que leva à formação de dois álcoois diastereoisoméricos: (-)-mentol e (+)-neomentol.
+
+a) Desenhe a estrutura da (-)-mentona em sua conformação de cadeira mais estável, indicando claramente a estereoquímica nos carbonos quirais (1R,4S) e a orientação (axial/equatorial) dos grupos isopropil e metil.
+b) Desenhe as estruturas dos dois álcoois diastereoisoméricos formados, (-)-mentol e (+)-neomentol, mostrando a estereoquímica resultante no novo centro quiral (o carbono da carbonila original). Indique qual álcool resulta do ataque do hidreto pela face axial e qual resulta do ataque pela face equatorial da carbonila da mentona.
+c) Explique, com base na análise conformacional e no impedimento estérico no estado de transição (modelo de Felkin-Anh ou similar, ou uma discussão mais qualitativa sobre acessibilidade das faces), por que a formação do (-)-mentol (onde o grupo hidroxila é equatorial e trans ao grupo isopropil) é geralmente favorecida em relação ao (+)-neomentol (onde o grupo hidroxila é axial e cis ao grupo isopropil).
+d) Suponha que você deseja realizar a redução da (-)-mentona de forma altamente diastereosseletiva para obter predominantemente o (-)-mentol. Descreva conceitualmente uma estratégia de síntese assimétrica que poderia ser empregada, mencionando o tipo de reagente ou catalisador que seria necessário (sem precisar especificar um reagente real, mas o princípio).
+e) Se a (-)-mentona fosse reduzida utilizando um reagente muito volumoso, como o L-selectrido (tri-sec-butilborohidreto de lítio), como você esperaria que a diastereosseletividade da reação (a razão entre mentol e neomentol) fosse alterada em comparação com o NaBH₄? Justifique sua resposta com base no aumento do impedimento estérico do reagente.
+
+---
+
+**Questão 7 (Cinética Enzimática e Mecanismos de Inibição)**
+
+Uma enzima E catalisa a conversão de um substrato S em um produto P. A cinética desta reação foi estudada a 25 °C em pH 7,4, e os seguintes dados de velocidade inicial (v₀) em função da concentração de substrato ([S]) foram obtidos:
+
+| [S] (μmol/L) | v₀ (μmol/L·min) (sem inibidor) | v₀ (μmol/L·min) (com Inibidor X, 50 nmol/L) |
+|--------------|--------------------------------|---------------------------------------------|
+| 5            | 5,8                            | 2,1                                         |
+| 10           | 9,7                            | 3,5                                         |
+| 20           | 14,3                           | 5,6                                         |
+| 50           | 22,7                           | 9,5                                         |
+| 100          | 28,6                           | 13,2                                        |
+| 200          | 33,3                           | 17,2                                        |
+
+a) Utilizando os dados na ausência do inibidor, determine os valores da velocidade máxima (Vmax) e da constante de Michaelis-Menten (Km) para a enzima. Um método gráfico como o de Lineweaver-Burk (1/v₀ vs 1/[S]) pode ser útil. Apresente o gráfico se utilizá-lo.
+b) Com base nos dados obtidos na presença do Inibidor X, determine como Vmax e Km aparente (Vmax,app e Km,app) são afetados pelo inibidor.
+c) Qual é o tipo de inibição exercida pelo Inibidor X (competitiva, não competitiva, mista ou incompetitiva)? Justifique sua resposta com base nas alterações observadas em Vmax e Km.
+d) Escreva o esquema de reações que descreve o tipo de inibição identificado no item (c), mostrando as interações entre enzima (E), substrato (S), produto (P) e inibidor (I).
+e) Calcule a constante de inibição (Ki ou αKi, conforme apropriado para o tipo de inibição) para o Inibidor X. Se for uma inibição mista, calcule ambas as constantes Ki e αKi (ou K'i). (Dica: Para inibição competitiva, Km,app = Km(1 + [I]/Ki). Para inibição não competitiva, Vmax,app = Vmax/(1 + [I]/Ki). Para inibição incompetitiva, Vmax,app = Vmax/(1 + [I]/Ki) e Km,app = Km/(1 + [I]/Ki). Para inibição mista, Km,app = Km(1 + [I]/Ki)/(1 + [I]/αKi) e Vmax,app = Vmax/(1 + [I]/αKi) OU Km,app = Km(α/α') e Vmax,app = Vmax/α', onde α = 1+[I]/Ki e α' = 1+[I]/K'i ).
+
+---
+
+**Questão 8 (Gases Reais em Misturas Reacionais e Estequiometria Fina)**
+
+A síntese da amônia ocorre pela reação: N₂(g) + 3 H₂(g) ⇌ 2 NH₃(g). Em um reator industrial operando a 450 °C e sob alta pressão, o comportamento dos gases desvia-se significativamente da idealidade. Considere que 100,0 kg de N₂ e 30,0 kg de H₂ são alimentados em um reator de 1000 L mantido a 450 °C. No equilíbrio, observa-se que o fator de compressibilidade (Z) da mistura gasosa é 0,92 e a pressão total no reator é de 250 atm.
+
+Dados:
+Massas molares (g/mol): N₂ = 28,0; H₂ = 2,0; NH₃ = 17,0.
+R = 0,0821 atm·L/mol·K.
+
+Para a equação de van der Waals, (P + an²/V²)(V - nb) = nRT, as constantes para a NH₃ são: a = 4,17 atm·L²/mol² e b = 0,0371 L/mol. (Para esta questão, não será necessário usar diretamente as constantes 'a' e 'b' de todos os gases, mas sim o conceito de não-idealidade e o Z da mistura).
+
+a) Calcule o número total de mols de gases que estariam presentes no reator se a mistura se comportasse como um gás ideal sob as condições de equilíbrio (Z=1, P=250 atm, V=1000 L, T=450 °C).
+b) Utilizando o fator de compressibilidade da mistura no equilíbrio (Z = 0,92), calcule o número total de mols de gases (n_total_real) efetivamente presente no reator no equilíbrio. Compare com o item (a) e comente a diferença.
+c) Determine o número de mols de N₂, H₂ e NH₃ presentes no equilíbrio, sabendo que a conversão do reagente limitante foi de 60,0%. (Primeiro, identifique o reagente limitante com base nas massas iniciais).
+d) Verifique se a soma dos mols calculados no item (c) é consistente com o n_total_real calculado no item (b) usando o fator de compressibilidade. Discuta possíveis fontes de pequenas discrepâncias, se houver, ou confirme a consistência. (Nota: Este item serve como uma verificação interna e pode revelar a complexidade de misturas reais).
+e) Calcule a fugacidade da amônia (f_NH₃) na mistura em equilíbrio, assumindo que o coeficiente de fugacidade (φ_NH₃) pode ser aproximado pelo fator de compressibilidade da amônia pura sob condições parciais semelhantes, ou, de forma mais simples para este problema, discuta qualitativamente como a fugacidade da NH₃ se compararia à sua pressão parcial na mistura e por que o conceito de fugacidade é importante em equilíbrios de alta pressão. Se a pressão parcial da NH₃ calculada a partir da fração molar e da pressão total for P_NH₃, e o fator de compressibilidade da NH₃ pura em condições semelhantes fosse Z_NH₃_pura ≈ 0,88, estime f_NH₃.
+
+---
+
+**Questão 9 (Análise Complexométrica e Equilíbrios Múltiplos em Solução)**
+
+Uma amostra de 100,0 mL de uma solução contém íons Ca²⁺ e Mg²⁺. Para determinar a concentração desses íons, realiza-se uma titulação com EDTA (ácido etilenodiaminotetracético, representado como H₄Y). O EDTA é um ácido tetraprótico com pKa₁=2,0, pKa₂=2,7, pKa₃=6,2 e pKa₄=10,3. As constantes de formação dos complexos com Ca²⁺ e Mg²⁺ são: log K(CaY²⁻) = 10,7 e log K(MgY²⁻) = 8,7.
+
+A titulação é realizada em duas etapas, utilizando indicadores metalocrômicos apropriados:
+1.  **Titulação Combinada:** Uma alíquota de 50,0 mL da amostra é tamponada em pH 10,0. Nesta condição, o EDTA está predominantemente na forma Y⁴⁻ (ou HY³⁻, mas a constante de formação é geralmente dada para Y⁴⁻). O volume de EDTA 0,0100 mol/L gasto para titular ambos os íons (Ca²⁺ + Mg²⁺) é de 35,00 mL.
+2.  **Titulação Seletiva do Ca²⁺:** Uma segunda alíquota de 50,0 mL da amostra é tamponada em pH 12,5. Nesta condição, o Mg²⁺ precipita como Mg(OH)₂ (Kps Mg(OH)₂ = 5,6 x 10⁻¹²) e não interfere significativamente na titulação do Ca²⁺ com EDTA. O volume de EDTA 0,0100 mol/L gasto para titular apenas o Ca²⁺ é de 20,00 mL.
+
+a) Calcule a concentração molar total de (Ca²⁺ + Mg²⁺) na amostra original com base na titulação combinada.
+b) Calcule a concentração molar de Ca²⁺ na amostra original com base na titulação seletiva.
+c) Calcule a concentração molar de Mg²⁺ na amostra original.
+d) Verifique se a precipitação do Mg(OH)₂ é quantitativa em pH 12,5. Calcule a concentração de Mg²⁺ remanescente em solução quando o Ca²⁺ está sendo titulado neste pH, assumindo que a concentração inicial de Mg²⁺ é a calculada no item (c) e que o volume não mudou significativamente antes da titulação do Ca²⁺ começar. Uma concentração remanescente de Mg²⁺ < 10⁻⁵ mol/L pode ser considerada quantitativamente precipitada para fins de titulação.
+e) Explique por que o controle do pH é crucial em titulações complexométricas com EDTA. Discuta como a fração da espécie Y⁴⁻ (αY⁴⁻) varia com o pH e como isso afeta a constante de formação condicional (K'MY) do complexo metal-EDTA. Se a titulação combinada fosse realizada em pH 5,0 em vez de pH 10,0, como isso afetaria a eficácia da titulação para Ca²⁺ e Mg²⁺? (Não são necessários cálculos para esta última parte, apenas uma discussão qualitativa baseada nos pKas do EDTA e nas constantes de formação).
+
+---
+
+**Questão 10 (Termodinâmica de Misturas Líquidas Não Ideais e Diagramas de Fases)**
+
+Considere uma mistura líquida binária de dois componentes voláteis, A e B, a uma temperatura T. As pressões de vapor dos componentes puros A e B a esta temperatura são P*A = 150 mmHg e P*B = 250 mmHg, respectivamente. A mistura exibe desvios positivos da Lei de Raoult, e o comportamento não ideal pode ser descrito pelo modelo de Margules de um parâmetro para os coeficientes de atividade (γ):
+
+ln γA = α * xB²
+ln γB = α * xA²
+
+onde xA e xB são as frações molares de A e B na fase líquida, e α é um parâmetro de interação que, para esta mistura a temperatura T, é igual a 0,85.
+
+a) Calcule os coeficientes de atividade γA e γB para uma mistura equimolar (xA = 0,5, xB = 0,5).
+b) Utilizando os coeficientes de atividade calculados, determine as pressões parciais de A (PA) e B (PB) e a pressão de vapor total (Ptotal) sobre a mistura equimolar a temperatura T. Compare essas pressões parciais com aquelas esperadas pela Lei de Raoult.
+c) Explique o significado físico de um valor de α > 0 em termos das interações moleculares A-A, B-B e A-B na mistura. Este tipo de desvio levaria a um azeótropo de máximo ou mínimo ponto de ebulição (ou pressão de vapor)? Justifique.
+d) Derive uma expressão para a composição (xA,azeo) de um possível azeótropo em termos do parâmetro α e das pressões de vapor dos componentes puros P*A e P*B. Lembre-se que em um azeótropo, a composição da fase líquida e da fase vapor são iguais (xA = yA). (Dica: Use a Lei de Dalton Ptotal * yA = PA e a relação de Gibbs-Duhem de forma simplificada pela condição de azeotropia, ou parta da condição dPtotal/dxA = 0).
+e) Sem calcular explicitamente a composição do azeótropo, discuta se, com α = 0,85 e os P* dados, é garantida a formação de um azeótropo. Se P*A fosse muito diferente de P*B (e.g., P*A = 50 mmHg e P*B = 450 mmHg) com o mesmo α, como isso afetaria a probabilidade de formação de um azeótropo e sua possível composição? Esboce um diagrama P-x,y (Pressão total vs. fração molar) qualitativo para a mistura original, mostrando os desvios positivos e a possível formação de um azeótropo.
+
+---
